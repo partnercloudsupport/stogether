@@ -1,16 +1,12 @@
-# stogether
+# Stogether Client
 
-A new Flutter project.
+스투게더 클라이언트 플러터 프로젝트입니다.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- 플러터 개발 환경을 구축합니다.(https://flutter.io)
+- git clone https://github.com/awebow/stogether
+- api.dart와 chat.dart에서 서버 URL을 입력한 후 앱을 실행합니다.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+# Server
+https://github.com/awebow/stogether-server 참조
